@@ -1,5 +1,5 @@
 <environments>
-	<environment id="Dev">
+	<environment id="Development">
 		<database-instance></database-instance>
 		<database-name>PSWebsiteMonitor</database-name>
 		<mail-server></mail-server>
