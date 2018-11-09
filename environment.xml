@@ -1,0 +1,14 @@
+<environments>
+	<environment id="Dev">
+		<database-instance></database-instance>
+		<database-name>PSWebsiteMonitor</database-name>
+		<mail-server></mail-server>
+		<mail-from-address></mail-from-address>
+	</environment>
+	<environment id="Production">
+		<database-instance></database-instance>
+		<database-name>PSWebsiteMonitor</database-name>
+		<mail-server></mail-server>
+		<mail-from-address></mail-from-address>
+	</environment>
+</environments>
